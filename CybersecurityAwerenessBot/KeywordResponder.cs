@@ -155,6 +155,10 @@ namespace CybersecurityChatbot
                 "Scammers often use fake giveaways and links on social media to trick users into sharing information.",
 
                 "Think carefully before posting sensitive information online because it may remain public permanently."
+
+                "Cybersecurity awareness on social media helps protect your privacy and reduces the risk of falling victim to scams."
+
+                "Always verify the authenticity of accounts and links on social media to stay safe from cyber threats."
             };
         }
 
