@@ -9,7 +9,7 @@ namespace CybersecurityChatbot
         private ChatBot chatbot;
         private AudioPlayer audioPlayer;
 
-        public MainWindow()
+        public MainWindow() 
         {
             InitializeComponent();
 
