@@ -10,7 +10,7 @@ namespace CybersecurityChatbot
         private SentimentDetector sentimentDetector;
         private MemoryStore memoryStore;
 
-        // Check if bot still needs username
+        // Check if bot still needs username 
         private bool awaitingName = true;
 
         // Stores previous topic
