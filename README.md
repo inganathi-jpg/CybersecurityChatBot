@@ -126,7 +126,7 @@ PASTE YOUR SCREENSHOT HERE
 ## GitHub Actions CI
 
 The project uses GitHub Actions for Continuous Integration.
-
+Images/Screenshot 2026-05-22 192355.png
 ---
 
 ## Project Structure
