@@ -130,7 +130,9 @@ The project uses GitHub Actions for Continuous Integration.
 ![Green TICK Screenshot](https://raw.githubusercontent.com/inganathi-jpg/CybersecurityChatBot/master/Images/Screenshot%202026-05-22%20192355.png)
 
 ---
-## Video presentation
+## Video Presentation
+
+[Watch the Video Presentation](https://github.com/inganathi-jpg/CybersecurityChatBot/blob/master/Video/ChatBot%20Presentation.mp4)
 
 ---
 ## Project Structure
