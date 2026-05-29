@@ -127,7 +127,7 @@ PASTE YOUR SCREENSHOT HERE
 
 The project uses GitHub Actions for Continuous Integration.
 
-https://github.com/inganathi-jpg/CybersecurityChatBot/blob/master/Images/Screenshot%202026-05-22%20192355.png
+![Chatbot Screenshot](https://raw.githubusercontent.com/inganathi-jpg/CybersecurityChatBot/master/Images/Screenshot%202026-05-22%20192355.png)
 
 ---
 
