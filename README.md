@@ -119,7 +119,7 @@ Copy to Output Directory = Copy Always
 
 ## Screenshot of Application
 
-PASTE YOUR SCREENSHOT HERE
+![Chatbot Screensot](Images/Screenshot%202026-05-24%20182341.png)
 
 ---
 
@@ -127,10 +127,12 @@ PASTE YOUR SCREENSHOT HERE
 
 The project uses GitHub Actions for Continuous Integration.
 
-![Chatbot Screenshot](https://raw.githubusercontent.com/inganathi-jpg/CybersecurityChatBot/master/Images/Screenshot%202026-05-22%20192355.png)
+![Green TICK Screenshot](https://raw.githubusercontent.com/inganathi-jpg/CybersecurityChatBot/master/Images/Screenshot%202026-05-22%20192355.png)
 
 ---
+## Video presentation
 
+---
 ## Project Structure
 
 ```plaintext
