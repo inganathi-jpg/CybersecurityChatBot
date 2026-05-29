@@ -126,7 +126,7 @@ PASTE YOUR SCREENSHOT HERE
 ## GitHub Actions CI
 
 The project uses GitHub Actions for Continuous Integration.
-Images/Screenshot 2026-05-22 192355.png
+https://github.com/inganathi-jpg/CybersecurityChatBot/blob/master/Images/Screenshot%202026-05-22%20192355.png
 ---
 
 ## Project Structure
