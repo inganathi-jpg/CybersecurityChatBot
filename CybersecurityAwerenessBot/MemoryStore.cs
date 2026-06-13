@@ -9,7 +9,7 @@ namespace CybersecurityChatbot
         public string UserName { get; set; }
 
         // Store favourite cybersecurity topic
-        public string FavouriteTopic { get; set; }
+        public string FavouriteTopic { get; set; } 
 
         // Dictionary memory storage
         private Dictionary<string, string> memory =
