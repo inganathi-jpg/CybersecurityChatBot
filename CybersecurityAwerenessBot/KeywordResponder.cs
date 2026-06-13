@@ -158,7 +158,7 @@ namespace CybersecurityChatbot
 
                 "Cybersecurity awareness on social media helps protect your privacy and reduces the risk of falling victim to scams.",
 
-                "Always verify the authenticity of accounts and links on social media to stay safe from cyber threats."
+                "Always verify the authenticity of accounts and links on social media to stay safe from cyber threats.",
             };
         }
 
