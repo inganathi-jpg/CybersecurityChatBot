@@ -2,9 +2,9 @@
 
 ## Project Description
 
-The Cybersecurity Awareness Chatbot is a WPF-based chatbot application developed in C# for PROG6221 Part 2. The chatbot helps users learn about cybersecurity topics such as phishing, password safety, scams, malware, privacy, safe browsing, hacking, and social media safety.
+The Cybersecurity Awareness Chatbot is a WPF desktop application developed in C#. The purpose of the application is to educate users about cybersecurity topics such as phishing, password security, malware, privacy, safe browsing, social engineering, and two-factor authentication.
 
-The chatbot includes sentiment detection, memory recall, random responses, conversation flow, voice greeting functionality, and a graphical user interface.
+The chatbot uses keyword recognition, sentiment detection, task management, a cybersecurity quiz, and activity logging to create an interactive learning experience.
 
 ---
 
@@ -18,32 +18,54 @@ The chatbot includes sentiment detection, memory recall, random responses, conve
 
 ## Features Implemented
 
-### GUI Features
-- WPF graphical user interface
-- Chat display area
-- User input textbox
-- Send button
-- Enter key support
-- Styled interface with colours and spacing
+###Part 1 Features
 
-### Cybersecurity Features
-- Keyword recognition
-- Random responses
-- Follow-up conversation flow
-- Cybersecurity awareness tips
-- Input validation
-- Fallback responses
+* Cybersecurity awareness chatbot
+* Keyword recognition
+* Randomised responses
+* User name recognition
+* Conversation memory
+* Sentiment detection
 
-### Advanced Features
-- Sentiment detection
-- Memory and recall
-- Personalised responses
-- Topic continuation
-- Multiple cybersecurity topics
+###Part 2 Features
 
-### Multimedia Features
-- Voice greeting using WAV audio
-- ASCII art display
+* Graphical User Interface (GUI) using WPF
+* Enhanced chatbot interaction
+* Improved user experience
+
+###Part 3 Features
+
+Task Assistant
+
+* Add cybersecurity tasks
+* Add task descriptions
+* Add reminders
+* Mark tasks as completed
+* Delete tasks
+* Store tasks using JSON
+
+Cybersecurity Quiz
+
+* Multiple cybersecurity questions
+* Immediate feedback
+* Score tracking
+* Final results display
+
+NLP Simulation
+
+* Recognises different user requests
+* Detects quiz requests
+* Detects task requests
+* Detects reminder requests
+* Detects activity log requests
+
+Activity Log
+
+* Records tasks added
+* Records task completion
+* Records task deletion
+* Records quiz activity
+* Records chatbot actions
 
 ### GitHub Features
 - GitHub Actions CI workflow
@@ -70,11 +92,11 @@ The chatbot can respond to questions about:
 
 ## Technologies Used
 
-- C#
-- WPF
-- .NET 8
-- Visual Studio 2022
-- GitHub Actions
+* C#
+* WPF
+* XAML
+* JSON File Storage
+* Object-Oriented Programming
 
 ---
 
@@ -91,17 +113,10 @@ Install the following:
 
 ### Steps to Run
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/inganathi-jpg/CybersecurityChatBot
-```
-
-2. Open the solution file in Visual Studio 2022.
-
-3. Build the solution.
-
-4. Run the application.
+1. Open the solution in Visual Studio.
+2. Build the solution.
+3. Run the application.
+4. Interact with the chatbot using the GUI.
 
 ---
 
