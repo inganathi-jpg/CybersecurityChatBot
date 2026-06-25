@@ -35,7 +35,7 @@ The chatbot uses keyword recognition, sentiment detection, task management, a cy
 
 ## Part 3 Features
 
-Task Assistant
+### Task Assistant
 
 * Add cybersecurity tasks
 * Add task descriptions
@@ -44,14 +44,14 @@ Task Assistant
 * Delete tasks
 * Store tasks using JSON
 
-Cybersecurity Quiz
+### Cybersecurity Quiz
 
 * Multiple cybersecurity questions
 * Immediate feedback
 * Score tracking
 * Final results display
 
-NLP Simulation
+### NLP Simulation
 
 * Recognises different user requests
 * Detects quiz requests
@@ -59,7 +59,7 @@ NLP Simulation
 * Detects reminder requests
 * Detects activity log requests
 
-Activity Log
+### Activity Log
 
 * Records tasks added
 * Records task completion
