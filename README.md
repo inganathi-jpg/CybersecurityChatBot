@@ -148,7 +148,7 @@ Copy to Output Directory = Copy Always
 
 ## Screenshot of Application
 
-![Chatbot Screensot](Images/Screenshot%202026-05-24%20182341.png)
+![Chatbot Screensot](Images/IMG_5506.jpeg)
 
 ---
 
