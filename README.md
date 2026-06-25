@@ -152,21 +152,51 @@ The project uses GitHub Actions for Continuous Integration.
 ---
 ## Project Structure
 
-```plaintext
-CybersecurityChatbot/
+CybersecurityAwarenessBot/
 │
-├── MainWindow.xaml
-├── MainWindow.xaml.cs
-├── ChatBot.cs
-├── KeywordResponder.cs
-├── SentimentDetector.cs
-├── MemoryStore.cs
-├── App.xaml
-├── App.xaml.cs
-├── greeting.wav
+├── CybersecurityAwarenessBot.sln
+│
+├── CybersecurityAwarenessBot/
+│   │
+│   ├── MainWindow.xaml
+│   ├── MainWindow.xaml.cs
+│   │
+│   ├── ChatBot.cs
+│   ├── KeywordResponder.cs
+│   ├── SentimentDetector.cs
+│   ├── MemoryStore.cs
+│   │
+│   ├── TaskManager.cs
+│   ├── TaskStorageHelper.cs
+│   ├── CyberTask.cs
+│   │
+│   ├── QuizManager.cs
+│   ├── QuizQuestion.cs
+│   │
+│   ├── ActivityLogger.cs
+│   ├── AudioPlayer.cs
+│   │
+│   ├── greeting.wav
+│   ├── tasks.json
+│   │
+│   ├── App.xaml
+│   ├── App.xaml.cs
+│   │
+│   ├── Properties/
+│   │
+│   └── CybersecurityAwarenessBot.csproj
+│
 ├── README.md
-└── .github/workflows/
-```
+│
+├── Screenshots/
+│   ├── chatbot.png
+│   ├── taskassistant.png
+│   ├── quiz.png
+│   └── activitylog.png
+│
+└── Documentation/
+    ├── POE_Report.pdf
+    └── Presentation_Slides.pdf
 
 ---
 
