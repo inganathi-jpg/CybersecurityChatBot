@@ -18,7 +18,7 @@ The chatbot uses keyword recognition, sentiment detection, task management, a cy
 
 ## Features Implemented
 
-###Part 1 Features
+## Part 1 Features
 
 * Cybersecurity awareness chatbot
 * Keyword recognition
@@ -27,13 +27,13 @@ The chatbot uses keyword recognition, sentiment detection, task management, a cy
 * Conversation memory
 * Sentiment detection
 
-###Part 2 Features
+## Part 2 Features
 
 * Graphical User Interface (GUI) using WPF
 * Enhanced chatbot interaction
 * Improved user experience
 
-###Part 3 Features
+## Part 3 Features
 
 Task Assistant
 
@@ -111,6 +111,20 @@ Install the following:
 
 ---
 
+# Required NuGet Package
+
+## Install Newtonsoft.Json:
+
+Tools → NuGet Package Manager → Manage NuGet Packages for Solution
+
+Search for:
+
+Newtonsoft.Json
+
+Install the latest stable version.
+
+___
+
 ### Steps to Run
 
 1. Open the solution in Visual Studio.
@@ -149,6 +163,35 @@ The project uses GitHub Actions for Continuous Integration.
 
 [Watch the Video Presentation](https://github.com/inganathi-jpg/CybersecurityChatBot/blob/master/Video/ChatBot%20Presentation.mp4)
 
+---
+
+# JSON Storage
+
+Tasks are automatically stored in:
+
+tasks.json
+
+The file is created automatically when the first task is added.
+
+---
+
+# GitHub Releases
+
+v3.0
+
+* Task Assistant completed
+* JSON storage implemented
+
+v3.1
+
+* Quiz feature added
+* Activity Log implemented
+
+v3.2
+
+* NLP Simulation completed
+* Final integrated version
+  
 ---
 ## Project Structure
 
