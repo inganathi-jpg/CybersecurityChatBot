@@ -152,12 +152,18 @@ The project uses GitHub Actions for Continuous Integration.
 ---
 ## Project Structure
 
-CybersecurityAwarenessBot/
+# Cybersecurity Awareness Chatbot
+
+## Project Structure
+
+```text
+CybersecurityAwarenessBot
 │
 ├── CybersecurityAwarenessBot.sln
 │
-├── CybersecurityAwarenessBot/
-│   │
+├── CybersecurityAwarenessBot
+│   ├── App.xaml
+│   ├── App.xaml.cs
 │   ├── MainWindow.xaml
 │   ├── MainWindow.xaml.cs
 │   │
@@ -179,24 +185,21 @@ CybersecurityAwarenessBot/
 │   ├── greeting.wav
 │   ├── tasks.json
 │   │
-│   ├── App.xaml
-│   ├── App.xaml.cs
-│   │
-│   ├── Properties/
-│   │
+│   ├── Properties
 │   └── CybersecurityAwarenessBot.csproj
 │
 ├── README.md
 │
-├── Screenshots/
+├── Screenshots
 │   ├── chatbot.png
 │   ├── taskassistant.png
 │   ├── quiz.png
 │   └── activitylog.png
 │
-└── Documentation/
+└── Documentation
     ├── POE_Report.pdf
-    └── Presentation_Slides.pdf
+    └── Presentation.pdf
+```
 
 ---
 
