@@ -161,7 +161,7 @@ The project uses GitHub Actions for Continuous Integration.
 ---
 ## Video Presentation
 
-[Watch the Video Presentation](https://github.com/inganathi-jpg/CybersecurityChatBot/blob/master/Video/ChatBot%20Presentation.mp4)
+[Watch the Video Presentation](https://youtu.be/qX9pBTtlPj4?si=eJLc7z-4jATBsUcb)
 
 ---
 
